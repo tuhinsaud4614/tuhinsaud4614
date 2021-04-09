@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Next Js, Graphql
 - 🥅 2021 Goals: Improve my skills and develop lots of projects for my own
-- ⚡ Fun fact: I love to spend time with me & boost up my thinking capability 
+- ⚡ Fun fact: I love to spend time with me & it boosts up my thinking capability 
 
 ### Connect with me:
 
