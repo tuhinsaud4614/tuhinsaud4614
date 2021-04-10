@@ -71,7 +71,7 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinsaud4614&theme=dark" alt="tuhinsaud4614" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinsaud4614&theme=dark" alt="tuhinsaud4614" /></p>
 
 <!-- [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
