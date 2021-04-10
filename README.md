@@ -63,12 +63,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinsaud4614&label=Profile%20views&color=bc4720&style=flat" alt="tuhinsaud4614" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhinsaud4614" alt="tuhinsaud4614" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhinsaud4614&theme=onedark" alt="tuhinsaud4614" /></a> </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinsaud4614&show_icons=true&theme=dark&locale=en&layout=compact" alt="tuhinsaud4614" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinsaud4614&show_icons=true&theme=dark&text_color=ffff00&locale=en&layout=compact" alt="tuhinsaud4614" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinsaud4614&" alt="tuhinsaud4614" /></p>
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinsaud4614&theme=dark" alt="tuhinsaud4614" /></p>
 
 <!-- [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
