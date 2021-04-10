@@ -59,7 +59,7 @@
 
 </details>
 
----
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinsaud4614&label=Profile%20views&color=bc4720&style=flat" alt="tuhinsaud4614" /> </p>
 
@@ -69,6 +69,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinsaud4614&show_icons=true&theme=dark&text_color=ffff00&locale=en&layout=compact" alt="tuhinsaud4614" /></p>
 
+<br/>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinsaud4614&theme=dark" alt="tuhinsaud4614" /></p>
 
