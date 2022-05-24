@@ -1,93 +1,43 @@
 ### Hi, I'm Tuhin 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+[![Website](https://img.shields.io/website?label=portfolio-aac78.web.app&style=for-the-badge&url=https%3A%2F%2Fportfolio-aac78.web.app)](https://portfolio-aac78.web.app)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/the_rare_rat?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 ## I'm a Full Stack Developer !!
 
 - 🌱 I’m currently learning Next Js, Graphql
-- 🥅 2021 Goals: Improve my skills and develop lots of projects for my own
+- 🥅 2022 Goals: Improve my skills and develop lots of projects for my own
 - ⚡ Fun fact: I love to spend time with me & it boosts up my thinking capability
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-
-[<img align="left" alt="RAT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RAT | CodeSandBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" />][CodeSandBox]
-
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="RAT | LinkedIn" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />][linkedin] [<img align="left" alt="RAT | Youtube" src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" />][youtube] [<img align="left" alt="RAT | GMAIL" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" />][gmail]
 
 <br />
 
 ### Languages and Tools:
 
-<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github] -->
+![HTML3](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS 3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python 3](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Javascript](https://camo.githubusercontent.com/82cd498d68f1929233bffb5d3bd2229cb0a97728b4983ee3a607c1941a9c9b7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4630444234463f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463044423446) ![Typescript](https://camo.githubusercontent.com/eb9f63e1e5baf35cfd84596d4e7d24395b2011b40691fc3f7eb30abb34dda9d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d3030376163633f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d74797065736372697074266c6f676f436f6c6f723d303037616363) ![React JS](https://camo.githubusercontent.com/8e4a668bb3e69b0ab12ff19e5038b089ea85543993268a965f6cebe6ca2b4d9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444246423f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d7265616374266c6f676f436f6c6f723d363144424642) ![Redux](https://camo.githubusercontent.com/9bb2580411576db130fee2e51a0d2f6187563d00eff4ff80b5aba8b97de5fbd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d3736344142432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d666666) ![Tailwind CSS](https://camo.githubusercontent.com/4026a81ab4816391b3b879254d4f3e7b2ea8c12585dad5af866c8dbf9efa856b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642532304353532d3039323734393f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d303642364434266c6162656c436f6c6f723d303030303030) ![Material UI](https://camo.githubusercontent.com/79d36f47da54709fdc8c26c53f38538625a7f727cf1adabce68ccb84d2ff423b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c5f55492d3030383143423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7569266c6f676f436f6c6f723d7768697465) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node JS](https://camo.githubusercontent.com/bdc2ad7847367dd9c66145d51470095066fcb1ac514b26e2a2785f7ae96a1f1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3343383733413f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d334338373341) ![Next JS](https://camo.githubusercontent.com/a2ef46f4aec1799b4366d5dd9e4cc60c250b9a4a1e0a4cea21bae63660b63a25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465) ![Express JS](https://camo.githubusercontent.com/7f73136d92799b19be179d1ed87b461120c35ed917c7d5ab59a7606209da7bd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465) ![Graphql](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Mongo DB](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://camo.githubusercontent.com/a3a8cb2bfecea7c25e1fb3a44475fb16fd1fe059e89921857e999577cc1ae379/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d4646434132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d666666666666) ![SQLite](https://camo.githubusercontent.com/efdd37822b512fdb3c2992adb0475eb372d4bb797f3bae07fd0a98cc4bd162ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d3030334235372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465) ![Git](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][github]
-[<img align="left" alt="Material" width="26px" src="https://mui.com/static/icons/192x192.png" />][github]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="React Native" width="26px" src="https://static.expo.dev/static/favicon-light-48x48.png" />][github]
-[<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />][github]
-[<img align="left" alt="NextJs" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />][github]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][github]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-[<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][github]
-[<img align="left" alt="dart" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" />][github]
-[<img align="left" alt="Flutter" width="26px" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" />][github]
-[<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][github]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
-[<img align="left" alt="SqLite" width="26px" src="https://avatars.githubusercontent.com/u/7454271?s=200&v=4" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="tuhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tuhinsaud4614&theme=radical&show_icons=true&hide_border=true" />
-
-</details>
-
-<br />
-<br />
+####Profile Views
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinsaud4614&label=Profile%20views&color=bc4720&style=flat" alt="tuhinsaud4614" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhinsaud4614&theme=onedark" alt="tuhinsaud4614" /></a> </p>
 
----
+# 📊GitHub Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinsaud4614&show_icons=true&theme=dark&text_color=ffff00&locale=en&layout=compact" alt="tuhinsaud4614" /></p>
+![](https://github-readme-stats.vercel.app/api?username=tuhinsaud4614&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tuhinsaud4614&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinsaud4614&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<br />
-<br />
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinsaud4614&theme=dark" alt="tuhinsaud4614" /></p>
-
-<!-- [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr -->
-
-[CodeSandBox]: https://codesandbox.io/u/tuhinsaud4614
+[Website]: https://portfolio-aac78.web.app
+[youtube]: https://www.youtube.com/channel/UCQnZMNJIincAQAZzy3TXXWw
 [linkedin]: https://linkedin.com/in/md-tuhin-saud-149908194
+[gmail]: mailto:tuhin.saud.sebpo@gmail.com
 [github]: https://github.com/tuhinsaud4614
 
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
